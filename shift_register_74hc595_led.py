@@ -1,4 +1,4 @@
-import cayenne.client #Cayenne MQTT Client
+import cayenne.client #zafron(Cayenne) MQTT Client
 import RPi.GPIO as GPIO
 import cayenne.client
 
